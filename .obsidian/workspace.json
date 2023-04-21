@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 7 最大最小分布.md",
+                "file": "Chapter 2/定理 7 随机向量的联合密度函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 7 最大最小分布.md",
+                "file": "Chapter 2/定理 7 随机向量的联合密度函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 7 最大最小分布.md",
+                "file": "Chapter 2/定理 7 随机向量的联合密度函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 7 最大最小分布.md"
+                "file": "Chapter 2/定理 7 随机向量的联合密度函数.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "9559f089cab08e18",
   "lastOpenFiles": [
-    "Chapter 2/定义 6 F分布.md",
     "Chapter 2/定义 7 最大最小分布.md",
+    "Chapter 2/定义 6 F分布.md",
     "Chapter 2/定义 6 t分布.md",
     "Chapter 2/定理 6 两个随机变量运算.md",
     "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
@@ -199,7 +199,7 @@
     "Chapter 2/定义 4 二维均匀分布.md",
     "Chapter 2/定义 3 边缘分布.md",
     "Chapter 2/定义 3 联合分布.md",
-    "Chapter 2/定义 3 随机向量.md",
+    "Chapter 2/定理 7 随机向量的联合密度函数.md",
     "Chapter 2/定义 2 指数分布.md",
     "Chapter 2/定义 2 Poisson分布.md",
     "Chapter 2/定义 2 Gamma分布.md",
