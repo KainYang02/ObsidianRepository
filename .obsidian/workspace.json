@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d82bae9a1e3dba",
+        "id": "78b2a21e004dc882",
         "type": "tabs",
         "children": [
           {
-            "id": "d9752db414302303",
+            "id": "fd7cbe7430a1e6e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dbe23b68d2e4597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a03ad5156d43adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定义 0 期望.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f949143eec2e61f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2f883d9bbbe9fea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,13 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2f883d9bbbe9fea",
+  "active": "069ee5037c760c95",
   "lastOpenFiles": [
+    "Chapter 3/定理 0 独立随机变量的期望.md",
     "Chapter 3/积分变换定理.md",
     "Chapter 3/定理 0 独立随机变量的充要条件.md",
     "Chapter 3/数学期望.md",
     "Chapter 3/性质 0 数学期望的基本性质.md",
-    "Chapter 3/定理 0 独立随机变量的期望.md",
     "Chapter 3/定理.md",
     "Chapter 3/定理 0 积分变换定理.md",
     "Chapter 3/定义 0 期望.md",
