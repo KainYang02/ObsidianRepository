@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md",
+                "file": "Chapter 2/定义 6C auchy分布C.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md",
+                "file": "Chapter 2/定义 6C auchy分布C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md",
+                "file": "Chapter 2/定义 6C auchy分布C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md"
+                "file": "Chapter 2/定义 6C auchy分布C.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "134fc4e1014f1033",
   "lastOpenFiles": [
-    "Chapter 2/定义 5 相互独立的随机变量.md",
     "Chapter 2/定理 5 独立随机变量的函数独立.md",
+    "Chapter 2/定义 5 相互独立的随机变量.md",
     "Chapter 2/定义 5 条件分布.md",
     "Chapter 2/定义 4 二维正态分布.md",
     "Chapter 2/定义 4 二维均匀分布.md",
