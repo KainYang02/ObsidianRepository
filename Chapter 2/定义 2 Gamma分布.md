@@ -10,7 +10,7 @@ $$
 * $\Gamma(r)=r\Gamma(r-1)$
 * $\Gamma(1)=1, \Gamma(n+1)=n!$
 * $\Gamma(\frac{1}{2})=\sqrt\pi$
-故$eta$的概率密度函数可写为：
+故$\eta$的概率密度函数可写为：
 $$
 P(\eta =x) = \frac{\lambda ^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}
 $$
