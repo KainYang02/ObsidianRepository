@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定理 5 相关性的等价条件*.md",
+                "file": "Chapter 3/性质 4 协方差的性质.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 5 相关性的等价条件*.md",
+                "file": "Chapter 3/性质 4 协方差的性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 5 相关性的等价条件*.md",
+                "file": "Chapter 3/性质 4 协方差的性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理 5 相关性的等价条件*.md"
+                "file": "Chapter 3/性质 4 协方差的性质.md"
               }
             }
           }
@@ -173,14 +173,14 @@
   },
   "active": "6e6d30f8cdf44ac3",
   "lastOpenFiles": [
-    "Chapter 3/定理 5 相关系数的范围.md",
-    "Chapter 3/定理 5 相关性的等价条件*.md",
-    "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
-    "Chapter 3/定义 5 相关系数.md",
+    "Chapter 3/定义 4 协方差.md",
     "Chapter 3/性质 4 协方差的性质.md",
+    "Chapter 3/定义 5 相关系数.md",
+    "Chapter 3/定理 5 相关性的等价条件*.md",
+    "Chapter 3/定理 5 相关系数的范围.md",
+    "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
     "Chapter 3/性质 4 二维正态分布的协方差阵.md",
     "Chapter 3/定义 4 协方差阵.md",
-    "Chapter 3/定义 4 协方差.md",
     "Chapter 3/性质 3 Poisson分布的标准化.md",
     "Chapter 3/性质 3 正态分布的标准化.md",
     "Chapter 3/定义 3 标准化随机变量.md",
