@@ -9,5 +9,5 @@ E(\limsup_n \xi_n)\ge \limsup_n E(\xi_n)
 $$
 ## 证明
 $$
-E[\liminf_n(\xi_n -\sigma)]=\li
+E[\liminf_n(\xi_n -\sigma)]=\lim_n E[\min_{k=n}^{\infty}(\xi_k-\sigma)]\le \liminf_n E(\xi_n-\sigma)
 $$
