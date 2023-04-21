@@ -4,5 +4,6 @@ $$
 $$
 由[[定理 1 Fatou 引理]]：
 $$
-
+E(\xi)\le \liminf_nE(\xi_n)\le \limsup_n E(\xi_n)\le E(\xi)
 $$
+故$E(\xi)$存在，$\xi$可积
