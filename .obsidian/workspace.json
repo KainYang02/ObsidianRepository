@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定义 0 期望.md",
+                "file": "Chapter 3/定理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a03ad5156d43adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/定理 0 对概率测度的积分.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定义 0 期望.md",
+                "file": "Chapter 3/定理 0 对概率测度的积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定义 0 期望.md",
+                "file": "Chapter 3/定理 0 对概率测度的积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定义 0 期望.md"
+                "file": "Chapter 3/定理 0 对概率测度的积分.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9dbe23b68d2e4597",
+  "active": "2a03ad5156d43adf",
   "lastOpenFiles": [
     "Chapter 3/定理.md",
-    "Chapter 2/性质 0 随机变量的结构.md",
+    "Chapter 3/定理 0 对概率测度的积分.md",
     "Chapter 3/定义 0 期望.md",
+    "Chapter 2/性质 0 随机变量的结构.md",
     "总纲 Chapter 2.md",
     "Chapter 2/定义 7 Beta分布.md",
     "Chapter 2/定义 2 Gamma分布.md",
@@ -186,7 +199,6 @@
     "Chapter 2/定义 5 条件分布.md",
     "Chapter 2/定义 4 二维正态分布.md",
     "Chapter 2/定义 4 二维均匀分布.md",
-    "Chapter 2/定义 3 边缘分布.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
