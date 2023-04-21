@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94e2ce2bfeb1d3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md",
+                "file": "Chapter 2/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md",
+                "file": "Chapter 2/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md"
+                "file": "Chapter 2/未命名.md"
               }
             }
           }
@@ -159,8 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36fd027e0b71e8af",
+  "active": "94e2ce2bfeb1d3f6",
   "lastOpenFiles": [
+    "Chapter 2/定义 2 Poisson分布.md",
+    "Chapter 2/未命名.md",
     "Chapter 2/定义 1 Pascal分布.md",
     "Chapter 2/定义 1 无记忆性.md",
     "Chapter 2/定义 1 几何分布.md",
@@ -188,8 +202,6 @@
     "Chapter 1/定义 3 Bernoulli 概率空间.md",
     "Chapter 1/定理 2 全概率公式.md",
     "Chapter 1/定理 1 sigma代数的充分条件.md",
-    "Chapter 1/定理 1 子集的sigma代数.md",
-    "Chapter 1/定理 1 单调类定理.md",
     "Chapter 1/未命名",
     "Chapter 1",
     "Chapter 3",
