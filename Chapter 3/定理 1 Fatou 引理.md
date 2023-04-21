@@ -11,3 +11,7 @@ $$
 $$
 E[\liminf_n(\xi_n -\sigma)]=\lim_n E[\min_{k=n}^{\infty}(\xi_k-\sigma)]\le \liminf_n E(\xi_n-\sigma)
 $$
+>[[定理 1 单调收敛定理]]
+
+
+
