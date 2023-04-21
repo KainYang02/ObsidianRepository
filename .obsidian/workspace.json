@@ -18,42 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36fd027e0b71e8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 5 相互独立的随机变量.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134fc4e1014f1033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 6 F分布.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9559f089cab08e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定理 7 随机向量的联合密度函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
