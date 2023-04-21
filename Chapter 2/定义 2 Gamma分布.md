@@ -7,7 +7,7 @@ $$
 P(\eta = t) =\frac{\lambda ^r}{(r-1)!}t^{r-1}e^{-\lambda t}
 $$
 回忆$\Gamma$函数$\Gamma(r)=\int_{0}^{+\infty}x^{r-1}e^{-x}dx$满足：
-* $\Gamma(r)=r\Gamma(r-1)$
+* $\Gamma(r+1)=r\Gamma(r)$
 * $\Gamma(1)=1, \Gamma(n+1)=n!$
 * $\Gamma(\frac{1}{2})=\sqrt\pi$
 故$\eta_r$的概率密度函数可写为：
