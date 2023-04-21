@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定理 6 两个随机变量运算.md",
+                "file": "Chapter 2/定义 6 F分布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9559f089cab08e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 7 最大最小分布.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定理 6 两个随机变量运算.md",
+                "file": "Chapter 2/定义 7 最大最小分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定理 6 两个随机变量运算.md",
+                "file": "Chapter 2/定义 7 最大最小分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定理 6 两个随机变量运算.md"
+                "file": "Chapter 2/定义 7 最大最小分布.md"
               }
             }
           }
@@ -171,13 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "134fc4e1014f1033",
+  "active": "9559f089cab08e18",
   "lastOpenFiles": [
-    "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
-    "Chapter 2/定理 6 两个随机变量运算.md",
-    "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 2/定义 6 F分布.md",
+    "Chapter 2/定义 7 最大最小分布.md",
     "Chapter 2/定义 6 t分布.md",
+    "Chapter 2/定理 6 两个随机变量运算.md",
+    "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
+    "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 2/定理 6 离散卷积公式.md",
     "Chapter 2/定理 5 独立随机变量的函数独立.md",
     "Chapter 2/定义 5 相互独立的随机变量.md",
@@ -198,7 +211,6 @@
     "Chapter 2/定义 1 Bernoulli分布.md",
     "总纲 Chapter 3.md",
     "Chapter 2/定义 0 随机变量.md",
-    "Chapter 2/性质 0 随机变量的结构.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
