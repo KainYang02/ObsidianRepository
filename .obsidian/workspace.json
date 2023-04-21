@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/性质 2 方差的基本性质.md",
+                "file": "Chapter 3/定义 2 方差&标准差.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/性质 2 方差的基本性质.md",
+                "file": "Chapter 3/定义 2 方差&标准差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/性质 2 方差的基本性质.md",
+                "file": "Chapter 3/定义 2 方差&标准差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/性质 2 方差的基本性质.md"
+                "file": "Chapter 3/定义 2 方差&标准差.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "f43be6a5a1a67dd6",
   "lastOpenFiles": [
-    "Chapter 3/定义 2 方差&标准差.md",
     "Chapter 3/性质 2 方差的基本性质.md",
+    "Chapter 3/定义 2 方差&标准差.md",
     "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
     "Chapter 3/定义 2 平方可积.md",
     "Chapter 3/定义 0 期望.md",
