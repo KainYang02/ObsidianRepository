@@ -1,4 +1,4 @@
-对于由$\lambda,t$决定的[[Poisson分布]]$P_k(t)=\frac{(\lambda t)^k}{k!}e^{-\lambda t}$，我们考虑**第$r$个质点到达的时间**$\eta_r$的概率分布函数：
+对于由$\lambda,t$决定的[[定义 2 Poisson分布]]$P_k(t)=\frac{(\lambda t)^k}{k!}e^{-\lambda t}$，我们考虑**第$r$个质点到达的时间**$\eta_r$的概率分布函数：
 $$
 F(t) = P(\eta_r < t) = P(\xi_t\ge r)=\sum_{k=r}^{\infty}P_k(t)= \sum_{k=r}^{\infty}\frac{(\lambda t)^k}{k!}e^{-\lambda t}
 $$

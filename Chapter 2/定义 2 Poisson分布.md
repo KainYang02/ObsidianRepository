@@ -1,3 +1,4 @@
+若二项分布的参数lie
 $$
 b(k;n,p)\approx \frac{(np)^k}{k!}e^{-np}
 $$
