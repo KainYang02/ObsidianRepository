@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定理 0 对概率测度的积分.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 0 对概率测度的积分.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 0 对概率测度的积分.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理 0 对概率测度的积分.md"
+                "file": "Chapter 3/定义 0 期望.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "2a03ad5156d43adf",
   "lastOpenFiles": [
-    "Chapter 3/定理.md",
     "Chapter 3/定理 0 对概率测度的积分.md",
+    "Chapter 3/定理.md",
     "Chapter 3/定义 0 期望.md",
     "Chapter 2/性质 0 随机变量的结构.md",
     "总纲 Chapter 2.md",
