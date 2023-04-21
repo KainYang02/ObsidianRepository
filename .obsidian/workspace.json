@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/未命名.md",
+                "file": "Chapter 2/定义 2 正态分布 N.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/未命名.md",
+                "file": "Chapter 2/定义 2 正态分布 N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/未命名.md",
+                "file": "Chapter 2/定义 2 正态分布 N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/未命名.md"
+                "file": "Chapter 2/定义 2 正态分布 N.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "94e2ce2bfeb1d3f6",
   "lastOpenFiles": [
+    "Chapter 2/定义 2 均匀分布 U.md",
     "Chapter 2/定义 2 Poisson分布.md",
-    "Chapter 2/未命名.md",
     "Chapter 2/定义 1 Pascal分布.md",
     "Chapter 2/定义 1 无记忆性.md",
     "Chapter 2/定义 1 几何分布.md",
