@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c18c2f7e11297d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/定理 0 独立随机变量的充要条件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
+                "file": "Chapter 3/定理 0 独立随机变量的充要条件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
+                "file": "Chapter 3/定理 0 独立随机变量的充要条件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的期望.md"
+                "file": "Chapter 3/定理 0 独立随机变量的充要条件.md"
               }
             }
           }
@@ -195,10 +207,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2f883d9bbbe9fea",
+  "active": "0c18c2f7e11297d0",
   "lastOpenFiles": [
-    "Chapter 3/定理.md",
     "Chapter 3/定理 0 独立随机变量的期望.md",
+    "Chapter 3/定理 0 独立随机变量的充要条件.md",
+    "Chapter 3/定理.md",
     "Chapter 3/定理 0 积分变换定理.md",
     "Chapter 3/定义 0 期望.md",
     "Chapter 3/定理 0 对概率测度的积分.md",
@@ -222,7 +235,6 @@
     "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 2/定理 6 离散卷积公式.md",
     "Chapter 2/定理 5 独立随机变量的函数独立.md",
-    "Chapter 2/定义 5 条件分布.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
