@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md"
+                "file": "Chapter 3/定义 0 期望.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "7d0a651078b5c3ff",
   "lastOpenFiles": [
+    "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 3/性质 1 Cauchy分布的期望.md",
     "Chapter 3/性质 1 n个自由度的X2分布的测度.md",
     "Chapter 2/定义 2 Gamma分布.md",
@@ -186,7 +187,6 @@
     "Chapter 3/积分变换定理.md",
     "Chapter 3/定理 0 独立随机变量的充要条件.md",
     "Chapter 3/数学期望.md",
-    "Chapter 3/定理 0 对概率测度的积分.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
