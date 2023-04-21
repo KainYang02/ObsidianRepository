@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定义 4 协方差阵.md",
+                "file": "Chapter 3/性质 4 二维正态分布的协方差阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定义 4 协方差阵.md",
+                "file": "Chapter 3/性质 4 二维正态分布的协方差阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定义 4 协方差阵.md"
+                "file": "Chapter 3/性质 4 二维正态分布的协方差阵.md"
               }
             }
           }
@@ -158,13 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b924b7e1d70eadd",
+  "active": "16c1014ce8844af9",
   "lastOpenFiles": [
+    "Chapter 3/定义 4 协方差阵.md",
     "Chapter 3/定义 4 协方差.md",
     "Chapter 3/性质 4 二维正态分布的协方差阵.md",
     "Chapter 3/性质 4 协方差的性质.md",
     "Chapter 3/性质 3 Poisson分布的标准化.md",
-    "Chapter 3/定义 4 协方差阵.md",
     "Chapter 3/性质 3 正态分布的标准化.md",
     "Chapter 3/定义 3 标准化随机变量.md",
     "Chapter 3/性质 2 二项分布的方差.md",
