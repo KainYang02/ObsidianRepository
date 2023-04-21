@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md",
+                "file": "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md",
+                "file": "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md",
+                "file": "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 6 Cauchy分布C.md"
+                "file": "Chapter 2/定理 6 连续随机变量函数的密度函数.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "134fc4e1014f1033",
   "lastOpenFiles": [
+    "Chapter 2/定理 6 两个随机变量运算.md",
+    "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 2/定义 6 F分布.md",
     "Chapter 2/定义 6 t分布.md",
-    "Chapter 2/定理 6 两个随机变量运算.md",
     "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
     "Chapter 2/定理 6 离散卷积公式.md",
-    "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 2/定理 5 独立随机变量的函数独立.md",
     "Chapter 2/定义 5 相互独立的随机变量.md",
     "Chapter 2/定义 5 条件分布.md",
