@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 4 二维正态分布.md",
+                "file": "Chapter 2/定义 5 条件分布.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 4 二维正态分布.md",
+                "file": "Chapter 2/定义 5 条件分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 4 二维正态分布.md",
+                "file": "Chapter 2/定义 5 条件分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 4 二维正态分布.md"
+                "file": "Chapter 2/定义 5 条件分布.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "36fd027e0b71e8af",
   "lastOpenFiles": [
+    "Chapter 2/定义 4 二维正态分布.md",
     "Chapter 2/定义 4 二维均匀分布.md",
     "Chapter 2/定义 3 边缘分布.md",
     "Chapter 2/定义 3 联合分布.md",
@@ -186,7 +187,6 @@
     "Chapter 2/性质 0 随机变量的性质.md",
     "总纲 Chapter 2.md",
     "总纲 Chapter 1.md",
-    "Chapter 1/定义 3 概率测度.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
