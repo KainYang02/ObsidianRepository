@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "134fc4e1014f1033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 5 相互独立的随机变量.md",
+                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 5 相互独立的随机变量.md",
+                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 5 相互独立的随机变量.md"
+                "file": "Chapter 2/定理 5 独立随机变量的函数独立.md"
               }
             }
           }
@@ -159,8 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36fd027e0b71e8af",
+  "active": "134fc4e1014f1033",
   "lastOpenFiles": [
+    "Chapter 2/定义 5 相互独立的随机变量.md",
+    "Chapter 2/定理 5 独立随机变量的函数独立.md",
     "Chapter 2/定义 5 条件分布.md",
     "Chapter 2/定义 4 二维正态分布.md",
     "Chapter 2/定义 4 二维均匀分布.md",
@@ -185,8 +199,6 @@
     "总纲 Chapter 3.md",
     "Chapter 2/性质 1 Lebesgue分解.md",
     "Chapter 2/定义 0 相空间.md",
-    "Chapter 2/性质 0 随机变量的性质.md",
-    "总纲 Chapter 2.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
