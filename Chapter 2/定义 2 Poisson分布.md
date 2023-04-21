@@ -1,4 +1,4 @@
-若二项分布的参数lie
+若一列二项分布$\{b(k;n,p_n)\}$的参数列满足$\lim_n np_n=\lambda >0$则：
 $$
 b(k;n,p)\approx \frac{(np)^k}{k!}e^{-np}
 $$
