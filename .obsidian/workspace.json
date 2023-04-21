@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94e2ce2bfeb1d3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 2 Gamma分布.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 2 Gamma分布.md",
+                "file": "Chapter 2/定义 2 Poisson分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 2 Gamma分布.md",
+                "file": "Chapter 2/定义 2 Poisson分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 2 Gamma分布.md"
+                "file": "Chapter 2/定义 2 Poisson分布.md"
               }
             }
           }
@@ -171,8 +159,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94e2ce2bfeb1d3f6",
+  "active": "36fd027e0b71e8af",
   "lastOpenFiles": [
+    "Chapter 2/定义 2 Gamma分布.md",
     "Chapter 2/定义 2 正态分布 Gauss分布 N.md",
     "Chapter 2/定义 2 均匀分布 U.md",
     "Chapter 2/定义 2 Poisson分布.md",
@@ -201,7 +190,6 @@
     "Image",
     "Chapter 1/定义 2 条件概率.md",
     "Chapter 1/定义 3 Bernoulli 概率空间.md",
-    "Chapter 1/定理 2 全概率公式.md",
     "Chapter 1/未命名",
     "Chapter 1",
     "Chapter 3",
