@@ -66,33 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c18c2f7e11297d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理 0 独立随机变量的充要条件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa55e6495198c831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 0 数学期望的性质.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/性质 0 数学期望的性质.md",
+                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/性质 0 数学期望的性质.md",
+                "file": "Chapter 3/定理 0 独立随机变量的期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/性质 0 数学期望的性质.md"
+                "file": "Chapter 3/定理 0 独立随机变量的期望.md"
               }
             }
           }
@@ -219,10 +195,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa55e6495198c831",
+  "active": "c2f883d9bbbe9fea",
   "lastOpenFiles": [
+    "Chapter 3/积分变换定理.md",
     "Chapter 3/定理 0 独立随机变量的充要条件.md",
-    "Chapter 3/性质 0 数学期望的性质.md",
+    "Chapter 3/数学期望.md",
+    "Chapter 3/性质 0 数学期望的基本性质.md",
     "Chapter 3/定理 0 独立随机变量的期望.md",
     "Chapter 3/定理.md",
     "Chapter 3/定理 0 积分变换定理.md",
@@ -245,8 +223,6 @@
     "Chapter 2/定义 6 t分布.md",
     "Chapter 2/定理 6 两个随机变量运算.md",
     "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
-    "Chapter 2/定义 6 Cauchy分布C.md",
-    "Chapter 2/定理 6 离散卷积公式.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
