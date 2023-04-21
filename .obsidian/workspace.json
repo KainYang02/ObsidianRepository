@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "cb975132d2b2112d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d7e5775cad3396a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbf3166f3ccb2c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 0 随机变量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d6944a69ff301c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/性质 0 随机变量的结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "922b9c5c189af8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 0 分布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7ccb31809d6c6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 0 分布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37705539e294f175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 0 分布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ab35918cdd779e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 0 分布函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe74a9594973b565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/性质 0 分布函数的性质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "484f397c0fb7a428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/性质 1 Lebesgue分解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "577584cea1c3473b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3934d23ee015ab67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069ee5037c760c95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bd218b085dc0557",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2508c4bf1ada7cf8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44580a6fd2fc074a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f090f5ff2e8e6ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "877917feb81444b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 2/性质 1 Lebesgue分解.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d946d307bb837e33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 2/性质 1 Lebesgue分解.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da691bbf39afb32a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e489a3b13b7a5c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 2/性质 1 Lebesgue分解.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "484f397c0fb7a428",
+  "lastOpenFiles": [
+    "Chapter 2/性质 0 分布函数的性质.md",
+    "Chapter 2/性质 1 Lebesgue分解.md",
+    "Chapter 2/定义 0 分布函数.md",
+    "Chapter 2/定义 0 分布.md",
+    "Chapter 2/定义 0 相空间.md",
+    "Chapter 2/性质 0 随机变量的性质.md",
+    "Chapter 2/性质 0 随机变量的结构.md",
+    "Chapter 2/定义 0 随机变量.md",
+    "总纲 Chapter 2.md",
+    "总纲 Chapter 1.md",
+    "Chapter 1/定义 3 概率测度.md",
+    "Chapter 1/定义 3 概率空间.md",
+    "Image/Bayes公式的应用.png",
+    "Image/Bayes公式的应用 1.png",
+    "Chapter 1/定义 4 事件独立.md",
+    "Chapter 1/定理 2 Bayes公式.md",
+    "Image",
+    "Chapter 1/定义 2 条件概率.md",
+    "Chapter 1/定义 3 Bernoulli 概率空间.md",
+    "Chapter 1/定理 2 全概率公式.md",
+    "Chapter 1/定理 1 sigma代数的充分条件.md",
+    "Chapter 1/定理 1 子集的sigma代数.md",
+    "Chapter 1/定理 1 单调类定理.md",
+    "Chapter 1/定义 2.md",
+    "Chapter 1/定义 1 Pi 类.md",
+    "Chapter 1/定义 1 lambda 类.md",
+    "Chapter 1/定义 1 单调类 monotone.md",
+    "Chapter 1/定义 1 代数.md",
+    "Chapter 1/定义 0 Borel 集.md",
+    "Chapter 1/未命名",
+    "Chapter 1",
+    "Chapter 3",
+    "Chapter 2/未命名",
+    "Chapter 2"
+  ]
+}
