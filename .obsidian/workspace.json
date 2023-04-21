@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47667a0cb88266d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/定义 2 方差.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
+                "file": "Chapter 3/定义 2 方差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
+                "file": "Chapter 3/定义 2 方差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理 2 Cauchy-Schwarz不等式.md"
+                "file": "Chapter 3/定义 2 方差.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80cd5a7495950bac",
+  "active": "47667a0cb88266d0",
   "lastOpenFiles": [
-    "Chapter 3/定义 2 平方可积.md",
     "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
+    "Chapter 3/定义 2 方差.md",
+    "Chapter 3/定义 2 平方可积.md",
     "Chapter 3/定义 0 期望.md",
     "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 3/性质 1 Cauchy分布的期望.md",
@@ -210,7 +223,6 @@
     "Chapter 3/定理 0 积分变换定理.md",
     "Chapter 3/定理.md",
     "Chapter 3/定理 0 独立随机变量的期望.md",
-    "Chapter 3/积分变换定理.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
