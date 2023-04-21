@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md",
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md",
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md",
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 2 Poisson分布.md"
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8ab3b3872623fa07",
   "lastOpenFiles": [
-    "Chapter 2/定义 2 Poisson过程.md",
     "Chapter 2/定义 2 Poisson分布.md",
+    "Chapter 2/定义 2 Poisson过程.md",
     "Chapter 3/性质 1 Poisson 分布的期望.md",
     "Chapter 3/性质 1 Bernoulli 分布的期望.md",
     "Chapter 3/性质 1 二项分布的期望.md",
