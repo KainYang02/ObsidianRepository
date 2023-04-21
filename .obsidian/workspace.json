@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定义 2 标准化随机变量.md",
+                "file": "Chapter 3/定义 3 标准化随机变量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9c9251602ec6b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定义 2 标准化随机变量.md",
+                "file": "Chapter 3/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定义 2 标准化随机变量.md",
+                "file": "Chapter 3/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定义 2 标准化随机变量.md"
+                "file": "Chapter 3/未命名.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "590bae2cb8baa3f7",
+  "active": "f9c9251602ec6b0b",
   "lastOpenFiles": [
+    "Chapter 3/定义 3 标准化随机变量.md",
+    "Chapter 3/未命名.md",
     "Chapter 3/性质 2 二项分布的方差.md",
-    "Chapter 3/定义 2 标准化随机变量.md",
     "Chapter 3/性质 2 n个自由度的X2分布的方差.md",
     "Chapter 3/性质 2 正态分布的方差.md",
     "Chapter 2/定义 2 Gamma分布.md",
@@ -210,7 +223,6 @@
     "Chapter 2/定义 2 Poisson分布.md",
     "Chapter 2/定义 2 Poisson过程.md",
     "Chapter 3/性质 1 Bernoulli 分布的期望.md",
-    "Chapter 3/性质 1 二项分布的期望.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
