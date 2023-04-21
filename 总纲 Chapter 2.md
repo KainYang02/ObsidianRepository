@@ -1,5 +1,5 @@
 离散型分布：
-* [[Bernoulli分布]]
+* [[定义 1 Bernoulli分布]]
 * [[几何分布]]
 * [[Pascal分布]]
 * [[Poisson分布]]
