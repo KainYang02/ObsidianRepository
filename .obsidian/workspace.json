@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/2.7 F分布.md",
+                "file": "Chapter 2/定义 6 Cauchy分布C.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/2.7 F分布.md",
+                "file": "Chapter 2/定义 6 Cauchy分布C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/2.7 F分布.md",
+                "file": "Chapter 2/定义 6 Cauchy分布C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/2.7 F分布.md"
+                "file": "Chapter 2/定义 6 Cauchy分布C.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "134fc4e1014f1033",
   "lastOpenFiles": [
+    "Chapter 2/定义 6 F分布.md",
+    "Chapter 2/定义 6 t分布.md",
     "Chapter 2/定理 6 两个随机变量运算.md",
     "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
     "Chapter 2/定理 6 离散卷积公式.md",
@@ -197,8 +199,6 @@
     "总纲 Chapter 3.md",
     "Chapter 2/定义 0 随机变量.md",
     "Chapter 2/性质 0 随机变量的结构.md",
-    "Chapter 2/定义 0 分布.md",
-    "Chapter 2/定义 0 分布函数.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
