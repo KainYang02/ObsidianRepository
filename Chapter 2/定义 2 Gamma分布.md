@@ -10,8 +10,8 @@ $$
 * $\Gamma(r)=r\Gamma(r-1)$
 * $\Gamma(1)=1, \Gamma(n+1)=n!$
 * $\Gamma(\frac{1}{2})=\sqrt\pi$
-故$\eta$的概率密度函数可写为：
+故$\eta_r$的概率密度函数可写为：
 $$
-P(\eta =x) = \frac{\lambda ^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}
+P(\eta_r =x) = \frac{\lambda ^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}
 $$
 该函数对应的分布称为$\Gamma(\lambda,r)$分布
