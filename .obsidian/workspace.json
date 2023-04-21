@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 3 随机向量的联合密度函数.md",
+                "file": "Chapter 2/定义 3 联合分布.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 3 随机向量的联合密度函数.md",
+                "file": "Chapter 2/定义 3 联合分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 3 随机向量的联合密度函数.md",
+                "file": "Chapter 2/定义 3 联合分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 3 随机向量的联合密度函数.md"
+                "file": "Chapter 2/定义 3 联合分布.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "36fd027e0b71e8af",
   "lastOpenFiles": [
+    "Chapter 2/定义 3 随机向量.md",
     "Chapter 2/定义 3 联合分布.md",
-    "Chapter 2/定义 3 随机向量的联合密度函数.md",
     "Chapter 2/定义 2 指数分布.md",
     "Chapter 2/定义 2 Poisson分布.md",
     "Chapter 2/定义 2 Gamma分布.md",
