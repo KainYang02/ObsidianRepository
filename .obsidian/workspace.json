@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9dbe23b68d2e4597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/定义 0 期望.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理.md",
+                "file": "Chapter 3/定义 0 期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理.md"
+                "file": "Chapter 3/定义 0 期望.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d9752db414302303",
+  "active": "9dbe23b68d2e4597",
   "lastOpenFiles": [
+    "Chapter 3/定理.md",
+    "总纲 Chapter 2.md",
+    "Chapter 3/定义 0 期望.md",
     "Chapter 2/定义 7 Beta分布.md",
     "Chapter 2/定义 2 Gamma分布.md",
     "Chapter 2/Rayleigh分布.md",
@@ -171,9 +187,6 @@
     "Chapter 2/定义 4 二维均匀分布.md",
     "Chapter 2/定义 3 边缘分布.md",
     "Chapter 2/定义 3 联合分布.md",
-    "Chapter 2/定义 2 Poisson分布.md",
-    "Chapter 2/定义 2 正态分布 Gauss分布 N.md",
-    "Chapter 2/定义 2 均匀分布 U.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
