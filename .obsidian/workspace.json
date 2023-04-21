@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/性质 1 n个自由度的X2分布的期望.md",
+                "file": "Chapter 2/定义 2 Gamma分布.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/性质 1 n个自由度的X2分布的期望.md",
+                "file": "Chapter 2/定义 2 Gamma分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/性质 1 n个自由度的X2分布的期望.md",
+                "file": "Chapter 2/定义 2 Gamma分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/性质 1 n个自由度的X2分布的期望.md"
+                "file": "Chapter 2/定义 2 Gamma分布.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "763e3542dc551a40",
   "lastOpenFiles": [
-    "Chapter 3/性质 2 正态分布的方差.md",
     "Chapter 3/性质 1 n个自由度的X2分布的期望.md",
+    "Chapter 3/性质 2 正态分布的方差.md",
     "Chapter 3/性质 2 Poisson分布的方差.md",
     "Chapter 2/定义 2 正态分布 N.md",
     "Chapter 3/定义 2 方差&标准差.md",
