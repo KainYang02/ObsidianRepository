@@ -8,91 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd7cbe7430a1e6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 0 数学期望的基本性质.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f35d2b1fc8989c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理 1 单调收敛定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90f8a547220c3c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理 1 Fatou 引理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51d86d49c1b0bf7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理 1 Lebesgue控制收敛定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46623688af057270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 1 Bernoulli 分布的期望.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "636ed13465dd8551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 1 二项分布的期望.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd1377e7ae4f477b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/未命名.md",
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ab3b3872623fa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/定义 2 Poisson分布.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/未命名.md",
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/未命名.md",
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/未命名.md"
+                "file": "Chapter 3/性质 1 Poisson 分布的期望.md"
               }
             }
           }
@@ -221,9 +160,10 @@
   },
   "active": "cd1377e7ae4f477b",
   "lastOpenFiles": [
-    "Chapter 3/性质 1 二项分布的期望.md",
-    "Chapter 3/未命名.md",
+    "Chapter 2/定义 2 Poisson分布.md",
+    "Chapter 3/性质 1 Poisson 分布的期望.md",
     "Chapter 3/性质 1 Bernoulli 分布的期望.md",
+    "Chapter 3/性质 1 二项分布的期望.md",
     "Chapter 3/定理 1 Lebesgue控制收敛定理.md",
     "Chapter 3/定理 1 Fatou 引理.md",
     "Chapter 3/定理 1 单调收敛定理.md",
@@ -246,7 +186,6 @@
     "Chapter 2/定义 7 n个自由度的X2分布.md",
     "Chapter 2/定义 1 几何分布.md",
     "Chapter 2/定义 5 相互独立的随机变量.md",
-    "Chapter 2/定义 6 F分布.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
