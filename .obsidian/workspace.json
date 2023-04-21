@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7e5775cad3396a",
+        "id": "b2d82bae9a1e3dba",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf3166f3ccb2c73",
+            "id": "d9752db414302303",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 0 随机变量.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d6944a69ff301c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/性质 0 随机变量的结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "922b9c5c189af8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 0 分布.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7ccb31809d6c6c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 0 分布.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37705539e294f175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 0 分布.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88ab35918cdd779e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/定义 0 分布函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe74a9594973b565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/性质 0 分布函数的性质.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "484f397c0fb7a428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/性质 1 Lebesgue分解.md",
+                "file": "总纲 Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/性质 1 Lebesgue分解.md",
+                "file": "总纲 Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/性质 1 Lebesgue分解.md",
+                "file": "总纲 Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/性质 1 Lebesgue分解.md"
+                "file": "总纲 Chapter 3.md"
               }
             }
           }
@@ -231,16 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484f397c0fb7a428",
+  "active": "d9752db414302303",
   "lastOpenFiles": [
-    "Chapter 2/性质 0 分布函数的性质.md",
-    "Chapter 2/性质 1 Lebesgue分解.md",
-    "Chapter 2/定义 0 分布函数.md",
+    "总纲 Chapter 3.md",
+    "Chapter 2/定义 0 随机变量.md",
+    "Chapter 2/性质 0 随机变量的结构.md",
     "Chapter 2/定义 0 分布.md",
+    "Chapter 2/定义 0 分布函数.md",
+    "Chapter 2/性质 0 分布函数的性质.md",
+    "总纲 Chapter 3.md",
+    "Chapter 2/性质 1 Lebesgue分解.md",
     "Chapter 2/定义 0 相空间.md",
     "Chapter 2/性质 0 随机变量的性质.md",
-    "Chapter 2/性质 0 随机变量的结构.md",
-    "Chapter 2/定义 0 随机变量.md",
     "总纲 Chapter 2.md",
     "总纲 Chapter 1.md",
     "Chapter 1/定义 3 概率测度.md",
@@ -260,8 +177,6 @@
     "Chapter 1/定义 1 Pi 类.md",
     "Chapter 1/定义 1 lambda 类.md",
     "Chapter 1/定义 1 单调类 monotone.md",
-    "Chapter 1/定义 1 代数.md",
-    "Chapter 1/定义 0 Borel 集.md",
     "Chapter 1/未命名",
     "Chapter 1",
     "Chapter 3",
