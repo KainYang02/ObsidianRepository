@@ -2,4 +2,4 @@
 $$
 f(k;r,p)=\binom{k-1}{r-1}p^r(1-p)^{k-r}
 $$
-$r, p$的 Pascal 分布或者负二项分布。
+$r, p$ 的 Pascal 分布或者负二项分布。
