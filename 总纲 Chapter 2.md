@@ -14,9 +14,9 @@
 [[定义 1 Bernoulli分布]] $b(k;n,p)=\binom{n}{k}p^{k}(1-p)^{n-k}$
 [[定义 1 Pascal分布]] $f(k;r,p)=\binom{k-1}{r-1}p^r(1-p)^{k-r}$
 [[定义 2 均匀分布 U]] $U(a,b)\sim \frac{1}{b-a}, x\in (a, b)$
-[[定义 2 正态分布 N]] $N(a,\sigma^2)\sim \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{}}$
+[[定义 2 正态分布 N]] $N(a,\sigma^2)\sim \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-a)^2}{2\sigma^2}},x\in\mathbb R$
 [[定义 2 指数分布]] $Exp(\lambda)\sim \lambda e^{-\lambda x}, x\in [0, \infty)$
-[[定义 2 Gamma分布]] 
+[[定义 2 Gamma分布]] $\Gamma(\lambda, r)\sim \frac{\lambda^r}{\Gamma(r)}x^{r-1}e$
 [[定义 2 Poisson分布]]
 [[定义 6 Cauchy分布C]]
 [[定义 6 F分布]]
