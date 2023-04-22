@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bc93b015a482063",
+        "id": "b8bc410c38d0ec5e",
         "type": "tabs",
         "children": [
           {
-            "id": "7db910d38c468b79",
+            "id": "0948a768072a7a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "069ee5037c760c95",
+  "active": "0948a768072a7a34",
   "lastOpenFiles": [
+    "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
+    "总纲 Chapter 3.md",
     "Chapter 3/定理 5 相关性的等价条件*.md",
     "Chapter 3/定理 6 全期望公式*.md",
-    "总纲 Chapter 3.md",
     "Chapter 3/定理 0 积分变换定理.md",
     "Chapter 3/定理 0 独立随机变量的期望.md",
     "Chapter 3/定理 0 独立随机变量的充要条件.md",
@@ -173,7 +174,6 @@
     "Chapter 1/定义 0 sigma 代数.md",
     "Chapter 1/定义 0 Borel 集.md",
     "Chapter 1/定理 2 Bayes公式.md",
-    "Chapter 1/定理 1 单调类定理.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
