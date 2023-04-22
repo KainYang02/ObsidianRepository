@@ -12,10 +12,10 @@
 ## 分布
 [[定义 1 几何分布]] $g(k;p)=(1-p)^{k-1}p$
 [[定义 1 Bernoulli分布]] $b(k;n,p)=\binom{n}{k}p^{k}(1-p)^{n-k}$
-[[定义 1 Pascal分布]] $f(k;r,p)=\binom{n-1}{k-1}$
-[[定义 2 均匀分布 U]]
-[[定义 2 正态分布 N]]
-[[定义 2 指数分布]]
+[[定义 1 Pascal分布]] $f(k;r,p)=\binom{k-1}{r-1}p^r(1-p)^{k-r}$
+[[定义 2 均匀分布 U]] $U(a,b)$
+[[定义 2 正态分布 N]] $N(a,\sigma^2)$
+[[定义 2 指数分布]] $Exp(\lambda)=$
 [[定义 2 Gamma分布]]
 [[定义 2 Poisson分布]]
 [[定义 6 Cauchy分布C]]
