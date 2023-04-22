@@ -17,10 +17,10 @@
 [[定义 2 正态分布 N]] $N(a,\sigma^2)\sim \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-a)^2}{2\sigma^2}},x\in\mathbb R$
 [[定义 2 指数分布]] $Exp(\lambda)\sim \lambda e^{-\lambda x}, x\in [0, \infty)$
 [[定义 2 Gamma分布]] $\Gamma(\lambda, r)\sim \frac{\lambda^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}, x\in [0, \infty)$
-[[定义 2 Poisson分布]] $Poi(\lambda)\sim \frac{\lambda^k}{k!}e^{-\lambda x}$
-[[定义 6 Cauchy分布C]] $C(\lambda, a)=\frac{1}{\pi}\frac{\lambda}{\lambda^2+(x-a)^2}$
+[[定义 2 Poisson分布]] $Poi(\lambda)\sim \frac{\lambda^k}{k!}e^{-\lambda x}, x\in[0,\infty)$
+[[定义 6 Cauchy分布C]] $C(\lambda, a)=\frac{1}{\pi}\frac{\lambda}{\lambda^2+(x-a)^2}, x\in\mathbb R$
 [[定义 6 F分布]] 
 [[定义 6 t分布]]
-[[定义 7 Beta分布]] $Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}$
-[[定义 7 n个自由度的X2分布]]
+[[定义 7 Beta分布]] $Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, B(\alpha, \beta)=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}, x\in (0, 1)$
+[[定义 7 n个自由度的X2分布]] 
 [[定义 7 Rayleigh 分布]]
