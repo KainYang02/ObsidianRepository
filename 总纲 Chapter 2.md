@@ -31,7 +31,7 @@
 [[定义 7 Beta分布]] $Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, B(\alpha, \beta)=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}, x\in (0, 1)$
 
 多个随机变量：
-[[定义 4 二维正态分布]] $N(a_1, \sigma^2_1, a_2, \sigma^2_2, r)=\frac{1}{\sigma_1\sigma_22\pi\sqrt{1-r^2}}e^{-\frac{}{1-r}}$
+[[定义 4 二维正态分布]] $N(a_1, \sigma^2_1, a_2, \sigma^2_2, r)=\frac{1}{\sigma_1\sigma_22\pi\sqrt{1-r^2}}e^{-\frac{1}{1-r^2}[\frac{(x-a_1^2)}{\sigma_1^2}-\frac{r(x-a_1)(y-a_2)}{\sigma_1\sigma_2}+\frac{(y-a_2)^2}{\sigma_2^2}]},(x,y)\in \mathbb R^2$
 [[定义 4 二维均匀分布]] $U(D)\sim \frac{1}{m(D)},x\in D$
 [[定义 7 n个自由度的X2分布]] $\mathcal X^2\sim\Gamma(\frac{n}{2}, \frac{1}{2})$
 [[定义 7 最大最小分布]]
