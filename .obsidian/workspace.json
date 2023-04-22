@@ -11,8 +11,12 @@
             "id": "ccc15479fa97702a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总纲 Chapter 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总纲 Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总纲 Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总纲 Chapter 2.md"
+              }
             }
           }
         ]
@@ -138,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "069ee5037c760c95",
+  "active": "ccc15479fa97702a",
   "lastOpenFiles": [
+    "总纲 Chapter 1.md",
+    "总纲 Chapter 3.md",
     "Chapter 3/性质 1 均匀分布的方差.md",
     "Chapter 3/性质 1 均匀分布的期望.md",
-    "总纲 Chapter 3.md",
     "Chapter 3/性质 2 Gamma分布的期望.md",
     "Chapter 3/性质 2 Gamma分布的方差.md",
     "Chapter 3/性质 1 几何分布的方差.md",
@@ -165,7 +174,6 @@
     "Chapter 3/定理 1 Fatou 引理.md",
     "Chapter 2/性质 1 Lebesgue分解.md",
     "Chapter 2/定义 5 相互独立的随机变量.md",
-    "Chapter 2/定义 7 最大最小分布.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
