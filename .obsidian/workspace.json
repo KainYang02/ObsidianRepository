@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定义 6 阶梯随机变量.md",
+                "file": "Chapter 1/定义 1 代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定义 6 阶梯随机变量.md",
+                "file": "Chapter 1/定义 1 代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定义 6 阶梯随机变量.md",
+                "file": "Chapter 1/定义 1 代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定义 6 阶梯随机变量.md"
+                "file": "Chapter 1/定义 1 代数.md"
               }
             }
           }
@@ -185,8 +185,11 @@
   },
   "active": "7300d70a4b1b7a94",
   "lastOpenFiles": [
-    "Chapter 3/定义 6 条件期望.md",
+    "Chapter 1/定义 1 Pi 类.md",
+    "Chapter 1/定义 1 代数.md",
+    "Chapter 1/定义 1 lambda 类.md",
     "Chapter 3/定义 6 阶梯随机变量.md",
+    "Chapter 3/定义 6 条件期望.md",
     "Chapter 3/定义 6 条件分布.md",
     "Chapter 3/定义 6 条件方差.md",
     "Chapter 2/定义 7 Beta分布.md",
@@ -208,9 +211,6 @@
     "Chapter 3/性质 3 Poisson分布的标准化.md",
     "Chapter 3/性质 3 正态分布的标准化.md",
     "Chapter 3/定义 3 标准化随机变量.md",
-    "Chapter 3/性质 2 n个自由度的X2分布的方差.md",
-    "Chapter 3/性质 2 正态分布的方差.md",
-    "Chapter 2/定义 2 Gamma分布.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
