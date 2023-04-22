@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总纲 Chapter 2.md",
+                "file": "总纲 Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总纲 Chapter 2.md",
+                "file": "总纲 Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总纲 Chapter 2.md",
+                "file": "总纲 Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总纲 Chapter 2.md"
+                "file": "总纲 Chapter 3.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "069ee5037c760c95",
   "lastOpenFiles": [
+    "总纲 Chapter 2.md",
     "总纲 Chapter 3.md",
     "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
     "Chapter 3/定理 5 相关性的等价条件*.md",
@@ -158,7 +159,6 @@
     "Chapter 3/定理 1 单调收敛定理.md",
     "Chapter 3/定理 1 Lebesgue控制收敛定理.md",
     "Chapter 3/定理 1 Fatou 引理.md",
-    "总纲 Chapter 2.md",
     "Chapter 2/性质 1 Lebesgue分解.md",
     "Chapter 2/定义 5 相互独立的随机变量.md",
     "Chapter 2/定义 7 最大最小分布.md",
