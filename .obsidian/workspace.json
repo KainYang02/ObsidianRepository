@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定理 0 积分变换定理.md",
+                "file": "总纲 Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 0 积分变换定理.md",
+                "file": "总纲 Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 0 积分变换定理.md",
+                "file": "总纲 Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理 0 积分变换定理.md"
+                "file": "总纲 Chapter 3.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a7bb6bd62cd4883a",
   "lastOpenFiles": [
+    "Chapter 3/定理 0 积分变换定理.md",
+    "Chapter 3/定理 0 独立随机变量的期望.md",
+    "Chapter 3/定理 0 独立随机变量的充要条件.md",
     "Chapter 3/定理 1 单调收敛定理.md",
     "Chapter 3/定理 1 Lebesgue控制收敛定理.md",
     "Chapter 3/定理 1 Fatou 引理.md",
@@ -171,9 +174,6 @@
     "Chapter 1/定理 1 单调类定理.md",
     "Chapter 3/定理 6 全期望公式.md",
     "Chapter 1/定理 2 全概率公式.md",
-    "Chapter 2/定义 7 Beta分布.md",
-    "Chapter 2/定理 2 Gamma 分布的性质.md",
-    "Chapter 2/定理 5 独立随机变量的函数独立.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
