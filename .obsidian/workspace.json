@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4fc5e1735440949d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/定义 6 条件分布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定理 5 独立和不相关.md",
+                "file": "Chapter 3/定义 6 条件分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定理 5 独立和不相关.md",
+                "file": "Chapter 3/定义 6 条件分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定理 5 独立和不相关.md"
+                "file": "Chapter 3/定义 6 条件分布.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88401f31e77cd6fa",
+  "active": "4fc5e1735440949d",
   "lastOpenFiles": [
+    "Chapter 3/定理 5 独立和不相关.md",
+    "Chapter 3/定义 6 条件分布.md",
     "Chapter 3/定义 5 相关系数.md",
     "Chapter 3/定理 5 相关系数的范围.md",
-    "Chapter 3/定理 5 独立和不相关.md",
     "Chapter 3/性质 4 协方差的性质.md",
     "Chapter 3/定义 4 协方差.md",
     "Chapter 3/定理 5 相关性的等价条件*.md",
@@ -186,7 +199,6 @@
     "Chapter 3/定义 0 期望.md",
     "Chapter 2/定义 6 Cauchy分布C.md",
     "Chapter 3/性质 1 Cauchy分布的期望.md",
-    "Chapter 2/定义 6 t分布.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
