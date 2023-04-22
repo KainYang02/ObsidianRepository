@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/定理 2 Bayes公式.md",
+                "file": "Chapter 1/定义 0 sigma 代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/定理 2 Bayes公式.md",
+                "file": "Chapter 1/定义 0 sigma 代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/定理 2 Bayes公式.md",
+                "file": "Chapter 1/定义 0 sigma 代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1/定理 2 Bayes公式.md"
+                "file": "Chapter 1/定义 0 sigma 代数.md"
               }
             }
           }
@@ -185,6 +185,8 @@
   },
   "active": "7300d70a4b1b7a94",
   "lastOpenFiles": [
+    "Chapter 1/定义 0 Borel 集.md",
+    "Chapter 1/定理 2 Bayes公式.md",
     "Chapter 1/定理 1 单调类定理.md",
     "Chapter 3/定理 6 全期望公式.md",
     "Chapter 1/定理 2 全概率公式.md",
@@ -209,8 +211,6 @@
     "Chapter 3/定义 6 条件分布.md",
     "Chapter 3/定义 6 条件方差.md",
     "Chapter 2/定义 3 边缘分布.md",
-    "Chapter 3/性质 4 二维正态分布的协方差阵.md",
-    "Chapter 3/性质 2 二项分布的方差.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
