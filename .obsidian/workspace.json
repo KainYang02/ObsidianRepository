@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5/5.2 Picard定理.md",
+                "file": "Chapter 5/5.4 留数定理.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5/5.2 Picard定理.md",
+                "file": "Chapter 5/5.4 留数定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5/5.2 Picard定理.md",
+                "file": "Chapter 5/5.4 留数定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5/5.2 Picard定理.md"
+                "file": "Chapter 5/5.4 留数定理.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "de0e1a224ea2e7ab",
   "lastOpenFiles": [
+    "Chapter 5/5.2 Weierstrass定理.md",
+    "Chapter 5/5.2 Picard定理.md",
     "Chapter 5/5.2 m重极点.md",
     "Chapter 5/5.2 亚纯函数的幅角原理.md",
     "Chapter 5/5.2 亚纯函数.md",
@@ -218,8 +220,6 @@
     "Chapter 4/4.5 Schwarz的推论.md",
     "Chapter 4/4.4 Hurwitz定理.md",
     "Chapter 4/4.3 解析函数的零点.md",
-    "README.md",
-    "Chapter 4/4.5 最大模原理.md",
     "Chapter 1",
     "Pasted image 20230417172903.png",
     "Images/5.2 Picard定理.png",
