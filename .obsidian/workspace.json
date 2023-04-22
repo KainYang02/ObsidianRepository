@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "99b3f1ad2c0d8f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 2 Gamma分布的期望.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "635691587ef0ad07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 2 Gamma分布的方差.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "41731e8a39ced1e0",
             "type": "leaf",
             "state": {
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/性质 2 Gamma分布的方差.md",
+                "file": "总纲 Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/性质 2 Gamma分布的方差.md",
+                "file": "总纲 Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/性质 2 Gamma分布的方差.md"
+                "file": "总纲 Chapter 3.md"
               }
             }
           }
@@ -195,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "635691587ef0ad07",
+  "active": "599cf81b50a57af9",
   "lastOpenFiles": [
     "Chapter 3/性质 2 Gamma分布的期望.md",
     "Chapter 3/性质 2 Gamma分布的方差.md",

@@ -1,3 +1,3 @@
 $$
-D(\xi) = \frac{\}{}
+D(\xi) = \frac{r}{\lambda^2}
 $$
