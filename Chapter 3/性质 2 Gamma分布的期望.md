@@ -1,3 +1,3 @@
 $$
-E(\xi)=\int_{0}^{\infty}\frac{\lambda^r}{\Gamma(r)}x^re^{-\lambda x}dx=
+E(\xi)=\int_{0}^{\infty}\frac{\lambda^r}{\Gamma(r)}x^re^{-\lambda x}dx=\frac{r}{\lambda}
 $$
