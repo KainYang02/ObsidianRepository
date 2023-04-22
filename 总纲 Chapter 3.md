@@ -18,7 +18,6 @@
 ## 方差
 [[定义 2 平方可积]]
 [[定义 2 方差&标准差]]
-[[定义 3 标准化随机变量]]
 性质：
 [[定理 6 多个随机变量和的方差]]
 
@@ -51,8 +50,8 @@
 |[[定义 2 正态分布 N]]|$N(a,\sigma^2)\sim \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-a)^2}{2\sigma^2}},x\in\mathbb R$|[[性质 1 正态分布的期望]]|[[性质 2 正态分布的方差]]|
 |[[定义 2 指数分布]]|$Exp(\lambda)\sim \lambda e^{-\lambda x}, x\in [0, \infty)$|||
 |[[定义 2 Gamma分布]]|$\Gamma(\lambda, r)\sim \frac{\lambda^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}, x\in [0, \infty)$|||
-|[[定义 2 Poisson分布]]|$Poi(\lambda)\sim \frac{\lambda^k}{k!}e^{-\lambda x}, x\in[0,\infty)$|||
-|[[定义 6 Cauchy分布C]]|$C(\lambda, a)=\frac{1}{\pi}\frac{\lambda}{\lambda^2+(x-a)^2}, x\in\mathbb R$|||
+|[[定义 2 Poisson分布]]|$Poi(\lambda)\sim \frac{\lambda^k}{k!}e^{-\lambda x}, x\in[0,\infty)$|[[性质 1 Poisson 分布的期望]]|[[性质 2 Poisson分布的方差]]|
+|[[定义 6 Cauchy分布C]]|$C(\lambda, a)=\frac{1}{\pi}\frac{\lambda}{\lambda^2+(x-a)^2}, x\in\mathbb R$|无|无|
 |[[定义 7 Beta分布]]|$Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, x\in (0, 1)$|||
 
 |名称|分布|期望|方差|
