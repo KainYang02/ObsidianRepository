@@ -12,8 +12,7 @@
 ## 分布
 
 常用的：
-
-[[定义 1 几何分布]] $g(k;p)=(1-p)^{k-1}p$
+[[定义 1 几何分布]] $GE(p)\sim (1-p)^{k-1}p, k\in\mathbb N$
 [[定义 1 Bernoulli分布]] $b(k;n,p)=\binom{n}{k}p^{k}(1-p)^{n-k}$
 [[定义 1 Pascal分布]] $f(k;r,p)=\binom{k-1}{r-1}p^r(1-p)^{k-r}$
 [[定义 2 均匀分布 U]] $U(a,b)\sim \frac{1}{b-a}, x\in (a, b)$
