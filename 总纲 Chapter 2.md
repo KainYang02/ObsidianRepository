@@ -22,5 +22,5 @@
 [[定义 6 F分布]] 
 [[定义 6 t分布]]
 [[定义 7 Beta分布]] $Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, B(\alpha, \beta)=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}, x\in (0, 1)$
-[[定义 7 n个自由度的X2分布]] 
+[[定义 7 n个自由度的X2分布]] $\mathcal X^2\sim\Gamma(\frac{n}{2}, \frac{1}{2})$
 [[定义 7 Rayleigh 分布]]
