@@ -13,6 +13,7 @@ $$
 
 最可能值为$[\lambda]$
 ##### Poisson分布在随机选择下不变
+[[定义 2 Poisson过程]]
 对于每个粒子，有额外p的概率则：
 $$
 b(k;\lambda,p) = \frac{(\lambda p)^k}{k!}e^{-\lambda p}

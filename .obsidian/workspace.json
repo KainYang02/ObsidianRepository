@@ -8,23 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "430a474024bf207f",
+            "id": "e242a6abc023b3be",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "e242a6abc023b3be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总纲 Chapter 2.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -150,10 +138,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "430a474024bf207f",
+  "active": "e242a6abc023b3be",
   "lastOpenFiles": [
+    "Chapter 3/性质 1 Cauchy分布的期望.md",
     "总纲 Chapter 3.md",
     "总纲 Chapter 2.md",
+    "Chapter 2/定义 2 Poisson分布.md",
     "Chapter 2/定义 1 几何分布.md",
     "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
     "Chapter 3/定理 5 相关性的等价条件*.md",
@@ -176,8 +166,6 @@
     "Chapter 1/定义 1 单调类 monotone.md",
     "Chapter 1/定义 1 代数.md",
     "Chapter 1/定义 0 sigma 代数.md",
-    "Chapter 1/定义 0 Borel 集.md",
-    "Chapter 1/定理 2 Bayes公式.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
