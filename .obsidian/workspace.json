@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md",
+                "file": "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md",
+                "file": "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md",
+                "file": "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md"
+                "file": "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md"
               }
             }
           }
@@ -173,8 +173,10 @@
   },
   "active": "56a8c3b1860d0ffc",
   "lastOpenFiles": [
-    "Chapter 3/定义 6 条件方差.md",
+    "Chapter 3/性质 4 二维正态分布的协方差阵.md",
+    "Chapter 3/性质 2 二项分布的方差.md",
     "Chapter 3/定义 6 条件期望.md",
+    "Chapter 3/定义 6 条件方差.md",
     "Chapter 3/定理 6 多个随机变量和的方差.md",
     "Chapter 3/定理 6 多个随机变量和的期望.md",
     "Chapter 3/定理 6 全期望公式.md",
@@ -187,12 +189,10 @@
     "Chapter 3/定义 4 协方差.md",
     "Chapter 3/定理 5 相关性的等价条件*.md",
     "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
-    "Chapter 3/性质 4 二维正态分布的协方差阵.md",
     "Chapter 3/定义 4 协方差阵.md",
     "Chapter 3/性质 3 Poisson分布的标准化.md",
     "Chapter 3/性质 3 正态分布的标准化.md",
     "Chapter 3/定义 3 标准化随机变量.md",
-    "Chapter 3/性质 2 二项分布的方差.md",
     "Chapter 3/性质 2 n个自由度的X2分布的方差.md",
     "Chapter 3/性质 2 正态分布的方差.md",
     "Chapter 2/定义 2 Gamma分布.md",
