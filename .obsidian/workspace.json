@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae2124751b7892ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md",
+                "file": "Chapter 3/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md",
+                "file": "Chapter 3/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3/定义 6 条件期望.md"
+                "file": "Chapter 3/未命名.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1081a9f96b395393",
+  "active": "ae2124751b7892ae",
   "lastOpenFiles": [
+    "Chapter 3/定义 6 条件期望.md",
+    "Chapter 3/未命名.md",
     "Chapter 3/定义 6 条件方差.md",
     "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
-    "Chapter 3/定义 6 条件期望.md",
     "Chapter 3/定理 6 全期望公式.md",
     "Chapter 3/定义 6 条件分布.md",
     "Chapter 3/定理 5 独立和不相关.md",
@@ -173,7 +187,6 @@
     "Chapter 3/性质 2 Poisson分布的方差.md",
     "Chapter 2/定义 2 正态分布 N.md",
     "Chapter 3/定义 2 方差&标准差.md",
-    "Chapter 3/性质 2 方差的基本性质.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
