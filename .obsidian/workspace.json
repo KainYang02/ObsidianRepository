@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/定义 2 指数分布.md",
+                "file": "Chapter 2/定理 2 Gamma 分布的性质.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/定义 2 指数分布.md",
+                "file": "Chapter 2/定理 2 Gamma 分布的性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/定义 2 指数分布.md",
+                "file": "Chapter 2/定理 2 Gamma 分布的性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/定义 2 指数分布.md"
+                "file": "Chapter 2/定理 2 Gamma 分布的性质.md"
               }
             }
           }
@@ -185,6 +185,14 @@
   },
   "active": "7300d70a4b1b7a94",
   "lastOpenFiles": [
+    "Chapter 2/定理 5 独立随机变量的函数独立.md",
+    "Chapter 2/定理 2 Gamma 分布的性质.md",
+    "Chapter 2/定理 6 离散卷积公式.md",
+    "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
+    "Chapter 2/定理 6 两个随机变量运算.md",
+    "Chapter 2/定理 7 随机向量的联合密度函数.md",
+    "Chapter 2/性质 0 分布函数的性质.md",
+    "Chapter 2/定义 2 指数分布.md",
     "Chapter 3/性质 4 协方差的性质.md",
     "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
     "总纲 Chapter 1.md",
@@ -203,14 +211,6 @@
     "Chapter 3/定理 6 多个随机变量和的方差.md",
     "Chapter 3/定理 6 多个随机变量和的期望.md",
     "Chapter 3/定理 6 全期望公式.md",
-    "Chapter 3/定理 5 独立和不相关.md",
-    "Chapter 3/定义 5 相关系数.md",
-    "Chapter 3/定理 5 相关系数的范围.md",
-    "Chapter 3/定义 4 协方差.md",
-    "Chapter 3/定理 5 相关性的等价条件*.md",
-    "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
-    "Chapter 3/定义 4 协方差阵.md",
-    "Chapter 3/性质 3 Poisson分布的标准化.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
