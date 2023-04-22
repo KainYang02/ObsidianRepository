@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/2.5 单位圆盘的全纯自同构.md",
+                "file": "Chapter 4/4.5 Schwarz-Pick引理.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/2.5 单位圆盘的全纯自同构.md",
+                "file": "Chapter 4/4.5 Schwarz-Pick引理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/2.5 单位圆盘的全纯自同构.md",
+                "file": "Chapter 4/4.5 Schwarz-Pick引理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/2.5 单位圆盘的全纯自同构.md"
+                "file": "Chapter 4/4.5 Schwarz-Pick引理.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   "lastOpenFiles": [
     "Chapter 2/2.5 分式线性变换.md",
     "Chapter 2/2.5 单位圆盘的全纯自同构.md",
+    "Chapter 2/2.2 调和函数.md",
+    "Chapter 2/未命名",
     "Chapter 2/2.2 实可微 复可微 可导.md",
     "Chapter 2/2.2 多项式.md",
-    "Chapter 2/2.2 调和函数.md",
     "Chapter 2/2.2 形式微商.md",
     "Chapter 2/2.4 多值函数.md",
     "Chapter 2/2.3 单叶解析函数.md",
@@ -206,7 +207,6 @@
     "Chapter 4/4.4 单叶收敛.md",
     "Chapter 4/4.4 边界对应原理.md",
     "Chapter 4/4.3 唯一性定理.md",
-    "Chapter 4/4.2 斯特林公式.md",
     "Chapter 1",
     "Pasted image 20230417172903.png",
     "Images/5.2 Picard定理.png",
