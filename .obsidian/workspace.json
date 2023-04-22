@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1/定义 1 代数.md",
+                "file": "Chapter 1/定义 1 单调类 monotone.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/定义 1 代数.md",
+                "file": "Chapter 1/定义 1 单调类 monotone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1/定义 1 代数.md",
+                "file": "Chapter 1/定义 1 单调类 monotone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1/定义 1 代数.md"
+                "file": "Chapter 1/定义 1 单调类 monotone.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "7300d70a4b1b7a94",
   "lastOpenFiles": [
+    "Chapter 1/定义 1 代数.md",
     "Chapter 1/定义 0 sigma 代数.md",
     "Chapter 1/定义 0 Borel 集.md",
     "Chapter 1/定理 2 Bayes公式.md",
@@ -203,7 +204,6 @@
     "Chapter 3/性质 4 协方差的性质.md",
     "Chapter 3/性质 6 二维正态分布的条件期望和条件方差.md",
     "总纲 Chapter 1.md",
-    "Chapter 1/定义 1 代数.md",
     "Chapter 1/定义 1 Pi 类.md",
     "Chapter 1/定义 1 lambda 类.md",
     "Chapter 3/定义 6 阶梯随机变量.md",
