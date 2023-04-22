@@ -10,6 +10,9 @@
 [[性质 0 随机变量的性质]]
 
 ## 分布
+
+常用的：
+
 [[定义 1 几何分布]] $g(k;p)=(1-p)^{k-1}p$
 [[定义 1 Bernoulli分布]] $b(k;n,p)=\binom{n}{k}p^{k}(1-p)^{n-k}$
 [[定义 1 Pascal分布]] $f(k;r,p)=\binom{k-1}{r-1}p^r(1-p)^{k-r}$
@@ -19,8 +22,10 @@
 [[定义 2 Gamma分布]] $\Gamma(\lambda, r)\sim \frac{\lambda^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}, x\in [0, \infty)$
 [[定义 2 Poisson分布]] $Poi(\lambda)\sim \frac{\lambda^k}{k!}e^{-\lambda x}, x\in[0,\infty)$
 [[定义 6 Cauchy分布C]] $C(\lambda, a)=\frac{1}{\pi}\frac{\lambda}{\lambda^2+(x-a)^2}, x\in\mathbb R$
-[[定义 6 F分布]] 
-[[定义 6 t分布]]
 [[定义 7 Beta分布]] $Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, B(\alpha, \beta)=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}, x\in (0, 1)$
 [[定义 7 n个自由度的X2分布]] $\mathcal X^2\sim\Gamma(\frac{n}{2}, \frac{1}{2})$
+
+不常用的：
+[[定义 6 F分布]] 
+[[定义 6 t分布]]
 [[定义 7 Rayleigh 分布]]
