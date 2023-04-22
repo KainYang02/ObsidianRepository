@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总纲 Chapter 3.md",
+                "file": "Chapter 3/定理 0 积分变换定理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总纲 Chapter 3.md",
+                "file": "Chapter 3/定理 0 积分变换定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总纲 Chapter 3.md",
+                "file": "Chapter 3/定理 0 积分变换定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总纲 Chapter 3.md"
+                "file": "Chapter 3/定理 0 积分变换定理.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "a7bb6bd62cd4883a",
   "lastOpenFiles": [
+    "Chapter 3/定理 1 单调收敛定理.md",
+    "Chapter 3/定理 1 Lebesgue控制收敛定理.md",
+    "Chapter 3/定理 1 Fatou 引理.md",
+    "总纲 Chapter 3.md",
     "总纲 Chapter 2.md",
     "Chapter 2/性质 1 Lebesgue分解.md",
     "Chapter 2/定义 5 相互独立的随机变量.md",
@@ -170,10 +174,6 @@
     "Chapter 2/定义 7 Beta分布.md",
     "Chapter 2/定理 2 Gamma 分布的性质.md",
     "Chapter 2/定理 5 独立随机变量的函数独立.md",
-    "Chapter 2/定理 6 离散卷积公式.md",
-    "Chapter 2/定理 6 连续随机变量函数的密度函数.md",
-    "Chapter 2/定理 6 两个随机变量运算.md",
-    "Chapter 2/定理 7 随机向量的联合密度函数.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
