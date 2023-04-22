@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "502024629e7333a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/定理 5 相关系数的范围.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e6d30f8cdf44ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3/性质 4 协方差的性质.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88401f31e77cd6fa",
             "type": "leaf",
             "state": {
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +161,12 @@
   },
   "active": "88401f31e77cd6fa",
   "lastOpenFiles": [
-    "Chapter 3/性质 4 协方差的性质.md",
-    "Chapter 3/定理 5 独立和不相关.md",
-    "Chapter 3/定义 4 协方差.md",
     "Chapter 3/定义 5 相关系数.md",
-    "Chapter 3/定理 5 相关性的等价条件*.md",
     "Chapter 3/定理 5 相关系数的范围.md",
+    "Chapter 3/定理 5 独立和不相关.md",
+    "Chapter 3/性质 4 协方差的性质.md",
+    "Chapter 3/定义 4 协方差.md",
+    "Chapter 3/定理 5 相关性的等价条件*.md",
     "Chapter 3/定理 2 Cauchy-Schwarz不等式.md",
     "Chapter 3/性质 4 二维正态分布的协方差阵.md",
     "Chapter 3/定义 4 协方差阵.md",
