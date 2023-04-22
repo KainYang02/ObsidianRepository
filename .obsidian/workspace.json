@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5/5.4 留数定理.md",
+                "file": "Chapter 4/4.4 幅角原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5/5.4 留数定理.md",
+                "file": "Chapter 4/4.4 幅角原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5/5.4 留数定理.md",
+                "file": "Chapter 4/4.4 幅角原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5/5.4 留数定理.md"
+                "file": "Chapter 4/4.4 幅角原理.md"
               }
             }
           },
@@ -205,6 +205,12 @@
   },
   "active": "ca27b9d23fe82b4c",
   "lastOpenFiles": [
+    "Chapter 4/4.4 单叶收敛.md",
+    "Chapter 4/4.4 边界对应原理.md",
+    "Chapter 4/4.3 Taylor展开余项.md",
+    "Chapter 4/4.3 Taylor展开判断解析.md",
+    "Chapter 4/4.3 Taylor展开定理.md",
+    "Chapter 5/5.4 留数定理.md",
     "Pasted image 20230422170643.png",
     "Pasted image 20230422170450.png",
     "Pasted image 20230422165756.png",
@@ -212,7 +218,6 @@
     "Chapter 5/5.1 Laurant 级数 相关定理.md",
     "Chapter 5/5.1 Laurant 级数.md",
     "Chapter 3/3.5 Cauchy不等式.md",
-    "Chapter 5/5.4 留数定理.md",
     "Pasted image 20230422163558.png",
     "Chapter 5/5.4 Jenson公式的最简形式.md",
     "Chapter 5/5.2 Picard定理.md",
@@ -230,11 +235,6 @@
     "Chapter 4/4.4 零点邻域定理.md",
     "Chapter 4/4.4 解析函数的反函数.md",
     "Chapter 4/4.4 幅角原理.md",
-    "Chapter 4/4.4 单叶收敛.md",
-    "Chapter 4/4.4 边界对应原理.md",
-    "Chapter 4/4.3 Taylor展开余项.md",
-    "Chapter 4/4.3 Taylor展开判断解析.md",
-    "Chapter 4/4.3 Taylor展开定理.md",
     "Chapter 2/未命名",
     "Chapter 1",
     "Pasted image 20230417172903.png",
@@ -243,7 +243,6 @@
     "Images/5.2 Weierstrass定理.png",
     "Chapter 5",
     "Images/幅角原理.png",
-    "Images/幅角原理的几何意义.png",
     "Images",
     "Chapter 4",
     "Chapter 2",
