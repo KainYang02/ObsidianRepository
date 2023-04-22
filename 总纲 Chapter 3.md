@@ -53,7 +53,10 @@
 |[[定义 2 Gamma分布]]|$\Gamma(\lambda, r)\sim \frac{\lambda^r}{\Gamma(r)}x^{r-1}e^{-\lambda x}, x\in [0, \infty)$|||
 |[[定义 2 Poisson分布]]|$Poi(\lambda)\sim \frac{\lambda^k}{k!}e^{-\lambda x}, x\in[0,\infty)$|||
 |[[定义 6 Cauchy分布C]]|$C(\lambda, a)=\frac{1}{\pi}\frac{\lambda}{\lambda^2+(x-a)^2}, x\in\mathbb R$|||
-|[[定义 7 Beta分布]]|$Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, B(\alpha, \beta)=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}, x\in (0, 1)$|||
+|[[定义 7 Beta分布]]|$Beta(\alpha, \beta)\sim \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)}, x\in (0, 1)$|||
+
+|名称|分布|期望|方差|
+|----|----|----|----|
 |[[定义 4 二维正态分布]]|$N(a_1, \sigma^2_1, a_2, \sigma^2_2, r)=\frac{1}{2\pi\sigma_1\sigma_2\sqrt{1-r^2}}e^{-\frac{1}{2(1-r^2)}[\frac{(x-a_1^2)}{\sigma_1^2}-\frac{r(x-a_1)(y-a_2)}{\sigma_1\sigma_2}+\frac{(y-a_2)^2}{\sigma_2^2}]},(x,y)\in \mathbb R^2$|||
 |[[定义 4 二维均匀分布]]|$U(D)\sim \frac{1}{m(D)},x\in D$|||
 |[[定义 7 n个自由度的X2分布]]|$\mathcal X^2\sim\Gamma(\frac{n}{2}, \frac{1}{2})$|||
