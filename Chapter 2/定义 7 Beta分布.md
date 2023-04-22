@@ -8,6 +8,6 @@ $$
 
 注：
 $$
-B(\alpha, \beta)=\int_{0}^1x^\alpha(1-x)^\beta dx=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}
+B(\alpha, \beta)=\int_{0}^1x^{\alpha-1}(1-x)^{\beta-1} dx=\frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}
 $$
 
