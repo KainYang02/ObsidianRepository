@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总纲 Chapter 2.md",
+                "file": "总纲 Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总纲 Chapter 2.md",
+                "file": "总纲 Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总纲 Chapter 2.md",
+                "file": "总纲 Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总纲 Chapter 2.md"
+                "file": "总纲 Chapter 1.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ccc15479fa97702a",
   "lastOpenFiles": [
+    "Chapter 2/定理 2 Gamma 分布的性质.md",
+    "总纲 Chapter 2.md",
     "总纲 Chapter 1.md",
     "总纲 Chapter 3.md",
     "Chapter 3/性质 1 均匀分布的方差.md",
@@ -155,7 +157,6 @@
     "Chapter 3/性质 2 Gamma分布的期望.md",
     "Chapter 3/性质 2 Gamma分布的方差.md",
     "Chapter 3/性质 1 几何分布的方差.md",
-    "总纲 Chapter 2.md",
     "Chapter 2/定理 6 离散卷积公式.md",
     "Chapter 2/定义 1 无记忆性.md",
     "Chapter 3/性质 0 数学期望的基本性质.md",
@@ -173,7 +174,6 @@
     "Chapter 3/定理 1 Lebesgue控制收敛定理.md",
     "Chapter 3/定理 1 Fatou 引理.md",
     "Chapter 2/性质 1 Lebesgue分解.md",
-    "Chapter 2/定义 5 相互独立的随机变量.md",
     "Image/Bayes公式的应用.png",
     "Image/Bayes公式的应用 1.png",
     "Image",
