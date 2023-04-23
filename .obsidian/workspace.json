@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总纲 Chapter 1.md",
+                "file": "总纲 Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总纲 Chapter 1.md",
+                "file": "总纲 Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总纲 Chapter 1.md",
+                "file": "总纲 Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总纲 Chapter 1.md"
+                "file": "总纲 Chapter 3.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "ccc15479fa97702a",
   "lastOpenFiles": [
-    "Chapter 2/定理 2 Gamma 分布的性质.md",
     "总纲 Chapter 2.md",
     "总纲 Chapter 1.md",
+    "Chapter 2/定理 2 Gamma 分布的性质.md",
     "总纲 Chapter 3.md",
     "Chapter 3/性质 1 均匀分布的方差.md",
     "Chapter 3/性质 1 均匀分布的期望.md",
